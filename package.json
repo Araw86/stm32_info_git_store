@@ -1,4 +1,12 @@
 {
   "name": "stm32_info_git_store",
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "index.js",
+  "author": "Radek Ripa",
+  "repository": {
+    "url": "https://github.com/araw86/stm32_info_git_store",
+    "type": "git"
+  },
   "packageManager": "yarn@3.6.1"
 }
